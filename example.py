@@ -1,2 +1,3 @@
-def example(a: str, b: str):
-    return a * b
+import pandas as pd
+
+pd.read_csv('test.csv')
